@@ -1,1 +1,3 @@
-This is the groceries app that I'm developing for personal use and potentially one day an actual application.
+Groceries App ---Name Pending---
+
+Developed in order to support personal grocery shopping efforts, with the hopes of one day pushing a real functional application to a real app store.
