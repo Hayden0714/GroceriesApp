@@ -14,5 +14,9 @@ import java.sql.Statement;
 public class App {
 	public static void main(String[] args) {
 		System.out.println("Welcome to the Groceries Application!");
+		
+		//Read in properties that are set
+		
+		//Start up the CLI and sit in a loop
 	}
 }

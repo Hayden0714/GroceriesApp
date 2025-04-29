@@ -1,3 +1,11 @@
-Groceries App ---Name Pending---
+Groceries Application
 
-Developed in order to support personal grocery shopping efforts, with the hopes of one day pushing a real functional application to a real app store.
+# Designed to be a 'do all' application that I can practice anything with. 
+
+## Things like:
+	
+	1. Database integration
+	2. Spring frameworks
+	3. GUI Programming
+	4. Maven/Gradle Building
+	5. Etc
